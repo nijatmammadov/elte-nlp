@@ -1,0 +1,757 @@
+,images,descriptions
+0,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103309_anonimized.jpg,"The image shows a refrigeration unit, typically used on refrigerated trucks or trailers. It appears attached to the front of a trailer to maintain a controlled temperature for perishable goods during transport. The unit is marked with branding that suggests it is a model designed for efficiency and reliability in temperature regulation. The image highlights components such as cooling vents and connections for electrical power. Yellow coiled cables and other wiring are visible, indicating connections for power and control. This type of equipment is essential in logistics for transporting temperature-sensitive products like food, pharmaceuticals, or other perishable goods."
+1,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103312_anonimized.jpg,"The image shows a close-up view of a refrigerated trailer unit, focusing on the control panel and associated components. The panel likely includes electronic controls for managing the temperature inside the trailer. There are various cables and hoses, which are likely used for electrical connections and refrigerant lines. The surroundings appear to be part of a larger vehicle, possibly a semi-truck. The equipment is designed for keeping cargo at a specific temperature, commonly used for transporting perishable goods."
+2,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103323_anonimized.jpg,"The image shows a close-up view of a vehicle’s rear tire and suspension system. The tire appears to be worn, evident from the tread which is not very deep. The visible part of the suspension includes a shock absorber, with a clearly marked ""120 Nm"" on one of the components, likely indicating the torque specification or a part number. The setting is on a paved surface, similar to interlocking bricks, suggesting the vehicle might be parked on a driveway or parking lot. The angle of the photo provides a perspective from underneath or beside the vehicle."
+3,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103316_anonimized.jpg,"The image shows the side of a large truck or trailer parked on a paved surface. The trailer displays the branding ""KRONE"" and features aerodynamic side skirts designed to improve fuel efficiency by reducing air drag. The visible section includes multiple wheels and a support leg on the left side, indicating that the trailer might be detached from the tractor unit. The surface appears to be composed of interlocking concrete pavers, typical for areas designed for heavy vehicles. The trailer has reflective strips for visibility and safety."
+4,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103326_anonimized.jpg,"The image shows the rear wheels of a heavy-duty vehicle, likely a truck or a trailer. There are two sets of dual tires visible, typical for supporting heavy loads. The tires are mounted on metallic rims with multiple bolt holes, securing them in place. A mudguard covers part of the wheel area, helping to prevent debris from being thrown up by the tires. The vehicle is parked on a paved surface made of interlocking bricks. The lighting suggests it's daytime, with clear shadows cast by the tires and mudguard. This setup is designed for stability and durability in transporting heavy goods."
+5,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103349_anonimized.jpg,"The image shows a close-up of a tire tread. The tread design features grooves and patterns that help in providing traction. The pattern consists of wide, straight lines and blocks that appear to be somewhat worn, indicating that the tire might have been used for a while. The grooves help channel water away from the tire's surface, reducing the risk of hydroplaning on wet roads. Overall, the tread pattern suggests it's designed for stability and grip in various driving conditions."
+6,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103332_anonimized.jpg,"The image shows a close-up of a car tire with visible tread patterns. The tire has a groove design common in performance or all-season tires to provide grip and channel water for traction. The tread appears worn, suggesting possible reduced effectiveness, which is important for safety. The background is a paved area, possibly a parking lot or driveway, with interlocking concrete bricks. This setting suggests the tire is on a parked vehicle."
+7,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103353_anonimized.jpg,"The image shows the rear wheel section of a large vehicle, likely a truck or trailer. The tire is firmly attached to a metal rim with multiple lug nuts. The tire tread appears to be deep and suitable for heavy-duty transportation. The visible portion of the vehicle above the wheel is a mudguard, designed to prevent dirt or debris from being thrown upwards by the tires. The ground is paved with interlocking bricks, suggesting the vehicle is parked or stationary in an industrial or commercial area."
+8,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103421_anonimized.jpg,"The image shows the interior of an empty refrigerator truck trailer. Key features include:
+
+1. **Insulated Walls and Ceiling:** The interior is lined with white insulation to maintain a controlled temperature, essential for transporting perishable goods.
+
+2. **Cooling Unit:** Mounted on the ceiling near the open door is a cooling unit, which helps regulate the temperature inside the trailer.
+
+3. **Spacious Interior:** The floor is flat and spacious, designed to accommodate goods that require refrigeration.
+
+4. **Branding:** The name ""Krone"" is visible on the exterior, indicating the manufacturer or brand of the trailer.
+
+5. **Load Securing Rail:** On both sides of the interior are rails for securing loads, ensuring items stay in place during transit.
+
+This trailer is likely used for transporting temperature-sensitive items such as food, pharmaceuticals, or other perishables."
+9,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103356_anonimized.jpg,"The image shows a close-up of a tire tread with significant wear. The tread is smooth, lacking the depth typically needed for optimal traction, and the grooves appear shallow, indicating that the tire may be worn down. This kind of wear can affect the vehicle's ability to grip the road effectively, particularly in wet conditions, and might require replacement to ensure safety. The background consists of a paved surface with interlocking stones."
+10,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103345_anonimized.jpg,"The image shows the wheels of a large vehicle, likely a truck or a trailer. There are multiple tires visible on each axle, which is typical for heavy vehicles designed to carry substantial loads. The tires are mounted on metal rims with several lug nuts, which secures them to the axle. The pavement beneath is made of interlocking concrete pavers. The side of the vehicle shows part of its bodywork above the wheels, indicating it is parked or stationary. The vehicle is parked in an outdoor area, as evident by the sunlight and shadows. The tires appear to be in good condition, suggesting regular maintenance."
+11,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103359_anonimized.jpg,"The image shows a section of a semi-trailer truck, specifically focusing on the underside near the landing gear and the side of the trailer. There is a black container labeled with a brand name, likely used for storage of tools or equipment needed for the truck operation. The trailer is parked on a paved surface next to a loading dock, indicated by the proximity to a dock shelter on the right side.
+
+The trailer has a reflective strip along its side for visibility and safety purposes. A section of the trailer side is open, suggesting loading or unloading activities. The ground markings indicate parking spaces for large vehicles. This setup is typical in logistics or freight transportation environments."
+12,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103436_anonimized.jpg,"The image shows the underside of a vehicle, specifically focusing on the area near a tire. The tire, which appears to be part of a larger vehicle like a truck or bus, is visibly worn and dusty. There's a metal mudguard bracket next to the tire, which is used to support the mudguard or fender. The mudguard itself is attached to the bracket and shows signs of use and exposure to road conditions, with dust and dirt present.
+
+The ground beneath is paved with interlocking bricks, indicating the vehicle is likely parked or stationary in a paved area. The overall condition suggests regular use in outdoor or dusty environments."
+13,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103439_anonimized.jpg,"The image shows a close-up of a truck tire mounted on a wheel rim. The tire is branded as ""Goodyear,"" visible from the text on the sidewall. The wheel has multiple lug nuts and a central hubcap. The rim appears to be made of metal, likely aluminum or steel, with a polished or brushed finish. The tire has some wear, as evidenced by the surface dirt and slight discoloration. The truck is parked on a paved surface made of interlocking bricks, suggesting it may be in a commercial or industrial area. The undercarriage of the truck above the tire is also partially visible."
+14,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103424_anonimized.jpg,"The image shows the interior of an empty refrigerated truck or trailer. It has smooth, insulated walls and metal e-tracks along both sides for securing cargo. The ceiling contains cooling units for temperature control, which are essential for transporting perishable goods. The design is spacious and functional, allowing for efficient loading and preservation of items that require refrigeration."
+15,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103447_anonimized.jpg,"The image shows the wheel of a large vehicle, likely a truck or trailer. The tire appears used and has visible wear. The wheel features multiple lug nuts around a central hub, and there are several ventilation holes. The wheel is mounted on a paved surface made of interlocking bricks. Above the wheel, there is a part of the vehicle’s body, possibly the side of a trailer, and a yellow sticker is visible on it. The photo captures the aspects of a vehicle commonly associated with freight or transport trucks."
+16,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103442_anonimized.jpg,"The image shows a close-up of a car tire. The tire has a pattern with grooves and treads visible, designed to provide traction. However, the tire appears somewhat worn, with tread depth that may be shallow in some areas. This kind of wear indicates that it might be time for a replacement to ensure safe driving conditions. The tire is positioned on a paved surface, likely a sidewalk or driveway."
+17,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103458_anonimized.jpg,"The image shows the side of a large commercial truck trailer. The trailer has a side skirt, which improves aerodynamics and fuel efficiency. It has the brand name ""KRONE"" visible on the side skirt panel. The trailer is parked on a paved surface with defined parking lines. The design of the side skirt is sleek, contributing to the overall streamlined appearance of the vehicle. There is also a warning symbol visible on the side skirt, indicating safety information."
+18,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103451_anonimized.jpg,"The image shows a close-up of a worn tire. The tread is visibly uneven, with multiple cracks and signs of significant wear. The tread depth appears quite shallow, suggesting that the tire is approaching the end of its useful life. This kind of wear can affect the tire's traction and overall safety, indicating that it may need to be replaced soon. Ensuring proper tire maintenance and replacement is crucial for vehicle safety."
+19,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103521_anonimized.jpg,"The image shows a manufacturer's plate from a Krone trailer, specifically a model ""SD."" The plate provides technical specifications about the trailer:
+
+- **Vehicle Identification**: The manufacturer's name is Krone.
+- **Model Type**: SD.
+- **Dimensions**:
+  - Length: 14,040 mm
+  - Width: 2,600 mm
+  - Height: 4,000 mm
+- **Weight Information**: 
+  - Total weight capacity: 39,000 kg
+  - Axle loads and other weight data are likely provided but are obscured.
+  
+Other details such as serial numbers or additional specifications are blacked out. The plate is likely used to verify the model and technical specs for regulatory compliance or maintenance purposes."
+20,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103518_anonimized.jpg,"The image displays a label on the side of a vehicle or machinery. It features the brand ""Krone,"" and contains various technical details typically found on a manufacturer's plate. 
+
+Key details include:
+
+1. **Manufacturer Information**: It mentions ""Krone Commercial Vehicle SE,"" suggesting it is related to commercial transportation or equipment.
+
+2. **Vehicle Type**: The type is indicated as ""SD.""
+
+3. **Specifications**: Several specifications are listed, likely related to weight capacities or dimensions measured in kilograms and millimeters. Specific fields include maximum allowable weights and dimensions for the vehicle.
+
+4. **Serial and Model Information**: There are sections for body serial numbers and production dates, although these specifics are blacked out.
+
+The purpose of the label is usually to provide essential information about the vehicle's capacity, identification, and compliance with regulations."
+21,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103456_anonimized.jpg,"The image shows a close-up of a vehicle tire. The tire appears to have some wear, as indicated by the visible tread patterns, which are not very deep. There is some uneven wear on the edges, suggesting possible alignment or inflation issues. The tire is positioned on a paved surface made with interlocking stone blocks.
+
+Key observations:
+
+1. **Tread Wear**: The tire's tread is relatively worn, indicating it's been used for a significant amount of time.
+
+2. **Surface**: The paving blocks suggest the tire is on a driveway or parking area, which may contribute to regular wear.
+
+3. **Condition**: There are small cracks or wear marks along the tread, which might suggest the tire needs inspection or replacement soon.
+
+Regular checks for tire pressure and alignment are essential to prevent uneven wear, and timely replacement is crucial for safety."
+22,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103454_anonimized.jpg,"The image shows a large vehicle wheel, likely from a truck or bus. The tire is manufactured by Goodyear, as indicated by the branding on the sidewall. The tire has visible wear, typical for heavy-duty applications. The wheel is mounted on a multi-lug, metal wheel hub, designed to support heavy loads. The vehicle is parked on a paved surface, and the surrounding area suggests it might be in a service or loading area. The presence of a fender above the tire indicates it's part of a larger vehicle assembly."
+23,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103515_anonimized.jpg,"The image shows a close-up of a portion of a large piece of equipment, likely HVAC or refrigeration-related, as indicated by the ""R-452A REFRIGERANT"" label. This refrigerant is commonly used in commercial refrigeration or air conditioning systems. The structure is composed of sleek, white metal panels with some visible screws and parts of an internal mechanism that is partially exposed. The surrounding area contains additional components with electrical connections and possibly a control panel. The design and labeling suggest this is part of a system for cooling or climate control."
+24,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103547_anonimized.jpg,"The image shows a part of a refrigerated truck or trailer unit. The unit is likely designed for transporting perishable goods. You can see a section with labels related to refrigerant information, indicating space to note the quantity and installation date (month, day, year) of the refrigerant. The surrounding area appears to be metallic and robust, typical of transport refrigeration units. The background includes another truck, suggesting this is in a parking or loading area."
+25,/content/drive/MyDrive/nlp_project_elte/data/169883/20250405_103532_anonimized.jpg,"The image shows a close-up view of a refrigeration unit attached to a trailer, often used for transporting perishable goods. The unit is branded ""Thermo King,"" a well-known manufacturer of transport temperature control systems. The equipment appears to be encased in a protective housing with cooling vents at the top. Various cables and connections are visible, suggesting this is an operational setup likely used in logistics to maintain goods at required temperatures during transit. The presence of yellow and red coiled air hoses indicates this unit is part of a larger semi-trailer truck system."
+26,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104344_anonimized.jpg,"The image shows a hand holding a digital paint thickness gauge against the surface of a vehicle. The gauge reads ""180 μm,"" indicating the thickness of the paint at that point. 
+
+This type of measurement is often used during vehicle inspections to detect any inconsistencies in paint thickness, which can signal repairs or bodywork alterations. The reading from this device helps assess whether the vehicle has undergone minor or major repairs.
+
+In the context of the Mercedes-Benz V 250 BlueTec described, this inspection is part of the overall condition assessment, which notes minor repairs suspected at yellow-marked values and major repairs at red-marked values. The vehicle is detailed as being in better-than-average condition for its age and mileage, indicating the inspection likely found few to no significant issues across the rest of the bodywork."
+27,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104341_anonimized.jpg,"The image appears to show a hand holding a paint thickness gauge next to the surface of a car. The gauge is used to measure the paint thickness on the vehicle, which is part of the inspection process to determine if there have been any repairs or repainting done.
+
+### Key Observations:
+- **Paint Thickness Gauge:** This tool helps assess the condition of the car's body by checking the paint layer's consistency. Variations can indicate past repairs.
+- **Inspection Context:** Given the context provided, this measurement likely plays a role in assessing potential vehicle damages or verifying its original paintwork.
+
+### Technical Data Relevance:
+- **General Condition:** As part of the overall inspection, the paint thickness supports conclusions about the car's condition and history.
+- **Market Valuation:** Paint condition can impact market value, as original, well-maintained paint may enhance resale value.
+
+This tool is a critical element in the non-destructive evaluation of a vehicle's body condition."
+28,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104333_anonimized.jpg,"The image shows a person using a paint thickness gauge on a glossy black vehicle surface, likely part of the Mercedes-Benz V 250 BlueTec L 4Matic Aut. This tool measures the thickness of the paint layer, indicating any repairs or repainting that might have occurred. The display reads ""001,"" suggesting the thickness in micrometers or another unit.
+
+The context provided suggests a thorough inspection took place, assessing the vehicle's general condition, operational status, and past damages. The inspection indicates that the vehicle is in better-than-average condition with no major depreciation factors found, emphasizing its roadworthiness and market value.
+
+The condition assessment found the mechanics and systems of the vehicle in appropriate condition, with specific attention paid to the paint, which might have minor and major repairs depending on measurement points.
+
+Overall, this image reflects part of the meticulous process in valuing the vehicle in the secondary market, focusing on both aesthetic and functional aspects."
+29,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104335_anonimized.jpg,"The image depicts a hand holding a digital device, likely a paint thickness gauge, against the surface of a vehicle. The reading on the device is 109. This tool is used to measure the thickness of the paint on the vehicle's body to identify any areas that may have been repainted or repaired. Such measurements can reveal previous damages or bodywork modifications.
+
+In the context provided, random points on the vehicle were measured for paint thickness, with values indicating minor or major repairs. The vehicle, a Mercedes-Benz V 250 BlueTec, has been assessed for its condition, and despite some potential minor repairs, it's reported to be in better-than-average condition for its age and mileage. This makes it a competitive option in the Hungarian secondary market."
+30,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104352_anonimized.jpg,"The image shows a device being used to measure the paint thickness on a Mercedes-Benz V 250 BlueTec L 4Matic. The displayed reading on the device is 171 µm, which appears to be within the typical range for factory paint. This measurement helps assess the condition of the bodywork, identifying areas that may have been repainted or repaired. In the context of the vehicle assessment, these measurements contribute to evaluating the overall condition and history of the car. The inspection report indicates some minor repairs based on yellow-marked values, but overall the vehicle is in better-than-average condition."
+31,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104425_1_anonimized.jpg,"The image shows a Mercedes-Benz V 250 BlueTec L 4Matic passenger vehicle. It's a kombi-style car with six seats and four doors, manufactured by Mercedes-Benz. The vehicle has a 2,143 cm³ engine, producing 140 kW of power. It's in better-than-average condition for its age and mileage, with a recorded mileage of 68,364 km, which is lower than average. The car underwent an inspection, confirming the proper functioning of its steering, brakes, engine, transmission, suspension, electrical systems, and lighting.
+
+Key details include:
+
+- **Tires:** Michelin 245/45 R19 with 80% condition on both front and rear axles.
+- **Body Condition:** Paint thickness measurements suggest minor and some major repairs.
+- **Registration and Documentation:** The Hungarian registration certificate and service book are maintained. Two ignition keys are present.
+
+The market price is evaluated between 16,017,150 HUF and 17,853,150 HUF, reflecting its condition and popularity in the Hungarian secondary market. The vehicle’s technical inspection is valid until April 2025."
+32,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104349_anonimized.jpg,"The image depicts someone measuring paint thickness on a Mercedes-Benz V 250 BlueTec L 4Matic Aut. The paint thickness gauge shows a reading, indicating it's being used to check the consistency and quality of the vehicle's paint job, which can reveal repairs or repainting.
+
+### Key Points:
+- **Vehicle Identification:** Mercedes-Benz V 250 BlueTec L 4Matic Aut., a passenger vehicle from Hungary.
+- **Inspection Details:** The vehicle was assessed in Sümeg on 2024-07-20.
+- **Condition:** The vehicle is in better-than-average condition for its age, with valid technical inspection until 2025.
+- **Technical Aspects:** It has a 2,143 cm³ engine with 140 kW power, and it's a kombi with 4 doors and 6 seats.
+- **Operational Status:** The car is roadworthy, with all mechanical and electrical systems reported to be in appropriate condition.
+- **Tires:** Both front and rear tires are in 80% condition.
+- **Valuation:** The market selling price is 17,853,150 HUF, and the purchase price is 16,017,150 HUF.
+
+### Visual Analysis:
+- **Device Usage:** The paint thickness gauge helps determine the condition of the vehicle's exterior, identifying potential areas of previous repairs.
+- **Overall Appearance:** The vehicle appears well-maintained, aligning with the detailed assessment provided.
+
+This comprehensive evaluation ensures the vehicle's reliability and market value, important considerations for potential buyers."
+33,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104428_anonimized.jpg,"This image shows a Mercedes-Benz V 250 BlueTec L 4Matic Aut. passenger vehicle. Here's a detailed description and condition overview based on the provided data:
+
+### Vehicle Description
+- **Type:** Passenger vehicle
+- **Model:** Mercedes-Benz V 250 BlueTec L 4Matic Aut.
+- **Engine Displacement:** 2,143 cm³
+- **Power:** 140 kW
+- **Body Style:** Kombi with 4 doors
+- **Seating Capacity:** 6 seats
+- **Location:** Sümeg, Hungary
+- **First Registration:** December 5, 2018
+- **Mileage:** 68,364 km (lower than average for its age)
+
+### Condition Assessment
+- The vehicle has been visually inspected and found to be in better-than-average condition for its age and mileage.
+- All systems, including steering, brakes, engine, transmission, suspension, electrical systems, and lighting, are reported to be in appropriate working order.
+- Tires are in good condition with 80% tread remaining.
+- The paint shows no major repairs; only minor repairs suspected at some locations.
+- The vehicle has a valid technical inspection until April 18, 2025.
+
+### Additional Information
+- **Documentation:** 
+  - Hungarian registration certificate and service book are present.
+  - No foreign registration certificate or technical data sheet provided.
+- **Keys:** Two ignition keys are included.
+- **Market Value:**
+  - Selling Price: 17,853,150 HUF
+  - Purchase Price: 16,017,150 HUF
+- The vehicle is popular in the Hungarian secondary market, indicating a good demand.
+
+The overall evaluation suggests that this Mercedes-Benz V 250 is well-maintained, with no significant depreciation factors affecting its value. It represents a reliable option for potential buyers considering its condition and market demand."
+34,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104443_1_anonimized.jpg,"This image shows the rear view of a Mercedes-Benz V 250 BlueTec L 4Matic Automatic. The vehicle appears to be parked on a brick-paved area near a fence and a building, possibly within a garden or a yard space. The rear door is open, revealing the spacious interior, typical of a multi-purpose vehicle (MPV). 
+
+The interior seems to be in good condition with visible seating and storage areas. The vehicle is designed to accommodate six passengers, which is appropriate for family or group travel, providing both comfort and practicality. 
+
+The Mercedes-Benz V-Class is known for its versatility, combining luxury with the functionality of a van. It's suitable for both personal and professional use, with ample space for passengers and cargo.
+
+Key technical details include:
+- A 2,143 cm³ engine with 140 kW power.
+- The vehicle has a 4Matic all-wheel-drive system, enhancing traction and stability.
+- The inspection report indicates it's in better-than-average condition with valid technical inspection until April 2025.
+- It has traveled 68,364 km, which is lower than average considering its age.
+
+Overall, the vehicle appears to be well-maintained, combining luxury and practicality, making it a desirable option in the market."
+35,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104415_anonimized.jpg,"This image shows a Mercedes-Benz V 250 BlueTec L 4Matic. The vehicle appears to be in good condition, consistent with the detailed assessment. The paint and bodywork seem well-maintained, indicating that any repairs were likely minor. The vehicle, despite its age and usage, is described as better than average condition-wise, which aligns with what's visible.
+
+Here are some details to note:
+
+- **General Appearance:** The exterior has a glossy finish, typical of a well-maintained vehicle.
+- **Body Style:** It's a combi-style passenger vehicle, offering ample space with its 4-door configuration.
+- **Tires:** The installed Michelin tires are in 80% condition, offering confidence in current drivability.
+- **Usage:** The car has a relatively low mileage of 68,364 km for its age.
+- **Inspection and Paperwork:** All relevant paperwork seems complete, and it has been through a thorough technical inspection.
+
+Overall, this vehicle is well-positioned in the market, with the assessment noting its demand and support in Hungary. The market price and condition make it an attractive option for potential buyers."
+36,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104448_anonimized.jpg,"The image shows the rear cargo area of a Mercedes-Benz V 250 BlueTec L 4Matic. The van has a spacious interior, configured in a Kombi style which suggests versatility, accommodating both passengers and luggage. The vehicle features a seating arrangement with three rows, easily visible through the open tailgate. The rear seats seem to be positioned upright and offer substantial legroom, indicating comfort for passengers. A luggage cover is in place to keep items secure and organized. The space appears clean and well-maintained, aligning with the report's assessment that the vehicle is in better-than-average condition for its age and mileage."
+37,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104454_anonimized.jpg,"The image shows a section of what appears to be the interior of a vehicle, likely a storage compartment or trunk area. The material looks like carpeted or felt-covered plastic with clean lines and a recessed design. There is a metallic latch or hinge mechanism visible, possibly for securing a cover or lid.
+
+In the context of the Mercedes-Benz V 250 BlueTec L 4Matic Aut., this could be part of the rear cargo area, designed for functionality and efficient use of space. This aligns with the vehicle's role as a passenger vehicle with ample room for luggage or equipment, highlighting its practicality for both personal and professional use.
+
+The overall image suggests a focus on durability and utility, which are key features for a vehicle that is roadworthy and in good condition as per the provided assessment."
+38,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104446_anonimized.jpg,"The image displays the interior of a Mercedes-Benz V 250 BlueTec, specifically focusing on a component of the vehicle's trunk area. A prominent red button is visible, labeled ""STOP"" with an icon indicating the functionality to control the automatic tailgate. This button is used for stopping or reversing the closing or opening of the trunk.
+
+**Vehicle Context:**
+- **Model:** Mercedes-Benz V 250 BlueTec L 4Matic Aut.
+- **Registration Date:** December 5, 2018
+- **Current Mileage:** 68,364 km
+- **Condition:** Better-than-average for age and mileage
+- **Technical Inspection Validity:** Until April 18, 2025
+
+**Inspection Summary:**
+- **Operational Test:** Systems function as intended; no irregularities
+- **Tires:** 80% condition on both front and rear
+- **Valuation:** Vehicle holds significant market value in Hungary
+
+The image, along with the condition and valuation details, supports the vehicle's overall positive assessment. The feature shown is part of the convenience and safety systems commonly found in modern vehicles, aimed at ease of use and preventing damage during operation."
+39,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104532_anonimized.jpg,"The image shows a Mercedes-Benz V 250 BlueTec L 4Matic Aut. passenger vehicle. Key details from the report include:
+
+- **Make & Model:** Mercedes-Benz V 250 BlueTec L 4Matic
+- **Registration & Location:** First registered on 2018-12-05, assessed in Sümeg, Hungary
+- **Technical Condition:** All major systems (steering, brakes, engine, etc.) are in good working order. The vehicle has been deemed roadworthy with a valid technical inspection until 2025-04-18.
+- **Mileage:** 68,364 km, which is lower than average for its age
+- **Tires:** Michelin tires with 80% tread on both front and rear axles
+- **Paint & Bodywork:** Minor paint repairs noted; no major depreciation factors observed
+- **Market Valuation:** Selling price is HUF 17,853,150 and purchase price is HUF 16,017,150, indicating a strong market presence
+- **Accessories & Documentation:** Complete with Hungarian registration certificate, service book, two ignition keys, but lacks a foreign registration certificate and technical data sheet
+
+Overall, the vehicle appears to be well-maintained and in better-than-average condition for its age and mileage."
+40,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104523_anonimized.jpg,"The image shows a Mercedes-Benz V 250 BlueTec L 4Matic Aut., which is a passenger vehicle. Here’s a detailed description based on the information provided:
+
+#### Vehicle Overview
+- **Type:** Passenger vehicle
+- **Manufacturer:** Mercedes-Benz
+- **Model:** V 250 BlueTec L 4Matic Aut.
+- **Body/Seats:** Kombi / 4 doors / 6 seats
+- **Engine Displacement:** 2,143 cm³
+- **Power Output:** 140 kW
+
+#### Condition and Inspections
+- **Overall Condition:** Better-than-average for its age and mileage
+- **Mileage:** 68,364 km
+- **Inspection Validity:** Technical inspection valid until 2025-04-18
+- **Maintenance:** Well-maintained with a present service book
+- **Steering, Brakes, Engine, Transmission, Suspension, Electrical Systems:** All in appropriate condition, operational tests showed no irregularities
+- **Tires:** Michelin 245/45 R19, 80% condition for both front and rear
+- **Paint Condition:** Minor repairs suspected at certain points, indicating potential repaint or touch-ups
+
+#### Market and Valuation
+- **Market Popularity:** Popular and in demand in Hungary
+- **Selling Price (incl. VAT):** 17,853,150 HUF
+- **Purchase Price (incl. VAT):** 16,017,150 HUF
+- **Depreciation:** None observed, retains good market value
+
+#### Accessories and Documentation
+- **Registration Certificate:** Present
+- **Ignition Keys:** Two pieces available
+- **Documentation:** Indicator of diligent maintenance with all relevant documents properly maintained
+
+#### Additional Notes
+- **Location of Assessment:** Sümeg, Hungary
+- **First Registration:** 2018-12-05
+
+This vehicle appears to be in excellent condition for a secondary market purchase, with extensive documentation verifying its maintenance history. Its all-wheel drive (4Matic) system adds to its appeal, especially for those seeking reliability and performance in varied driving conditions."
+41,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104519_anonimized.jpg,"This image shows a Mercedes-Benz V 250 BlueTec L 4Matic Aut. vehicle. Here are some key details based on the description and visual inspection:
+
+### Vehicle Appearance
+- **Design:** The vehicle is a passenger van with a sleek, modern design typical of Mercedes-Benz.
+- **Color:** The body appears to be a dark shade, possibly black or dark grey.
+- **Condition:** The vehicle looks well-maintained with no visible damage or major wear.
+
+### Technical and Inspection Highlights
+- **Engine and Performance:** It has a 2,143 cm³ engine with a power output of 140 kW, indicating good performance capabilities.
+- **Inspection and Maintenance:** The vehicle has been assessed thoroughly, with valid technical inspection until 2025-04-18. Operational systems such as the engine, brakes, and electrical systems are in appropriate condition.
+- **Tires:** Michelin tires with 80% tread condition are noted, suggesting that the tires are relatively new and in good shape.
+
+### Documentation and Accessories
+- **Registration and Service History:** Hungarian registration certificate and service book are maintained, while the foreign registration certificate and technical data sheet are not present.
+- **Keys:** The vehicle comes with two ignition keys.
+
+### Market and Valuation
+- **Value:** The vehicle is valued at 17,853,150 HUF for selling, and 16,017,150 HUF for purchase, reflecting its condition and market demand.
+
+Overall, this Mercedes-Benz V 250 appears to be in excellent condition, both mechanically and aesthetically, with comprehensive maintenance and a favorable market presence."
+42,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104544_1_anonimized.jpg,"The image shows the side mirror of a vehicle, specifically a Mercedes-Benz V 250 BlueTec L 4Matic Aut. The mirror appears to be in good condition, consistent with the overall positive assessment of the vehicle. This model, registered in 2018, has low mileage for its age and is well-maintained mechanically and cosmetically. The reflection on the mirror suggests clear surroundings, and the mirror housing looks intact, with no visible signs of damage. Given its condition and features, this vehicle is considered roadworthy and better-than-average for its market evaluation."
+43,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104534_anonimized.jpg,"The image shows the front grille of a Mercedes-Benz vehicle, featuring the iconic star emblem prominently in the center. The grille has horizontal slats, typical of the brand's design, which are both aesthetic and functional for airflow. Below the emblem, there seems to be a camera or sensor, likely used for assisting parking or other driver assistance systems.
+
+### Additional Context from the Description:
+
+- **Vehicle Model**: Mercedes-Benz V 250 BlueTec L 4Matic Aut.
+- **Condition**: Better-than-average condition for its age and mileage (68,364 km).
+- **Operational Condition**: All systems, including the engine, transmission, and electrical components, were reported to be in appropriate condition.
+- **Market Information**: The vehicle is in demand and has a valid technical inspection until 2025.
+
+This vehicle is a versatile and reliable model, reflecting the luxury and performance standards of the Mercedes-Benz brand. The presence of driver assistance systems like the sensor or camera further enhances its appeal for safety and convenience."
+44,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104554_anonimized.jpg,"The image shows an open view of a passenger vehicle's front door, specifically a Mercedes-Benz V 250 BlueTec L 4Matic Aut. The interior looks well-maintained and clean, featuring:
+
+- **Materials and Design:** 
+  - The inside of the door appears to have a combination of materials, likely leather or synthetic leather, with a two-tone color scheme involving brown and black.
+  - The design includes ergonomic features likely aimed at comfort and convenience.
+
+- **Features:**
+  - Integrated door controls for windows and possibly mirror adjustments.
+  - Interior styling seems in line with Mercedes-Benz's typical luxurious look.
+
+- **Condition:**
+  - The door and surrounding areas are free from visible damage and appear well-kept, consistent with the condition reports from the technical description.
+  
+- **Surroundings:**
+  - The vehicle is parked in an outdoor setting with greenery around, possibly indicating a residential or private parking area.
+
+The technical description indicates that this vehicle, from 2018, is in better-than-average condition with a valid technical inspection. It points out no significant depreciation factors, suggesting the vehicle has been well-maintained. The mileage is lower than average, which could contribute to its favorable condition. The vehicle has been assessed comprehensively through visual inspection, bodywork checks, and operational tests, confirming its roadworthy status."
+45,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104619_anonimized.jpg,"The image shows the interior control panel of a Mercedes-Benz V 250 BlueTec L 4Matic Aut. It features:
+
+1. **Headlight Controls:**
+   - A dial for adjusting the headlights, including options for automatic lighting and fog lights.
+   
+2. **Additional Buttons:**
+   - Controls for features like DSR (Downhill Speed Regulation) and a 360-degree camera view.
+   - Buttons for activating parking assistance and other vehicle settings.
+
+The panel is housed in a sleek design with brown leather upholstery, consistent with the luxury finish expected in a Mercedes-Benz vehicle. The controls are easily accessible for the driver, enhancing convenience and safety."
+46,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104623_anonimized.jpg,"The image shows the interior of a Mercedes-Benz V 250 BlueTec, focusing on the front passenger seat. The seat is covered in brown leather with a perforated pattern, indicating a premium finish. The condition appears clean and well-maintained, consistent with the vehicle's overall better-than-average condition for its age and mileage.
+
+The floor mat features an AMG logo, adding a sporty touch to the interior. The seat design seems ergonomic, providing comfort for long drives. The surrounding area, including the side panel and floor space, is clear and tidy.
+
+This image aligns with the detailed assessment, presenting the vehicle as well-preserved and potentially appealing to buyers seeking a luxurious and reliable passenger vehicle."
+47,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104714_anonimized.jpg,"The image shows the instrument cluster of a Mercedes-Benz V 250 BlueTec L 4Matic Aut. vehicle. Here's a detailed description:
+
+1. **Instruments:**
+   - **Speedometer (Left):** Measures speed in km/h, ranging from 0 to 260 km/h.
+   - **Tachometer (Right):** Displays engine speed in revolutions per minute (RPM), ranging from 0 to 7.
+   - **Fuel and Temperature Gauges:** Appears integrated with the speedometer and tachometer, though not clearly visible in this image.
+
+2. **Central Display:**
+   - **Warning Message:** The screen displays ""Totwinkel-Assistent ohne Funktion,"" indicating that the blind spot assist is not functioning.
+   - **Additional Information:** Shows outside temperature (23.0°C) and current time (10:47).
+
+3. **Gear Position Indicator:**
+   - Shows the vehicle is in neutral (N) with options for reverse (R), drive (D), and parking (P).
+
+4. **Design and Materials:**
+   - **Dashboard Finish:** Appears to have a polished, wood-like finish, giving a premium look.
+   - **Overall Layout:** Typical for modern vehicles, combining analog and digital components for easy readability.
+
+5. **Context:**
+   - The dashboard is consistent with a high-end vehicle model, reflecting Mercedes-Benz's focus on both function and aesthetics.
+
+This cluster gives the driver essential information at a glance and aligns with the vehicle's luxury positioning, ensuring both functionality and style."
+48,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104631_anonimized.jpg,"The image shows the interior of a Mercedes-Benz V 250 BlueTec L 4Matic. The view focuses on the front seats, which are upholstered in brown leather with white stitching. The seats have a modern, luxurious appearance and appear to be in good condition, aligning with the vehicle's reported condition assessment. The cabin reflects typical high-quality materials found in Mercedes-Benz vehicles, emphasizing comfort and style. There are also visible cup holders and a center console, which contribute to the practicality and convenience expected in a passenger vehicle of this category."
+49,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104715_anonimized.jpg,"The image shows the interior of a Mercedes-Benz vehicle, specifically focusing on the dashboard and gear selector. Here's a description based on the features visible in the photo:
+
+1. **Dashboard Display:**
+   - A clear analogue speedometer is visible.
+   - The design is clean and modern, consistent with Mercedes-Benz interiors.
+
+2. **Gear Selector:**
+   - The gear shift lever has options for Reverse (R), Neutral (N), Park (P), and Drive (D).
+   - It is mounted on the steering column, typical for Mercedes-Benz models.
+
+3. **Climate Control:**
+   - The temperature display reads 22°C, indicating the climate control is likely set to this temperature.
+   - Modern climate control buttons and knobs are visible.
+
+4. **Materials and Finish:**
+   - The dashboard has a polished wood finish, adding a luxurious touch.
+   - The materials seem to be of high quality, with chrome accents around air vents and controls.
+
+This interior design reflects the luxury and functionality typically offered by Mercedes-Benz, suitable for both comfort and ease of use."
+50,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104717_anonimized.jpg,"The image depicts the interior controls of a Mercedes-Benz V 250 BlueTec L 4Matic Aut., focusing on the dashboard and steering column. Here's a detailed description:
+
+### Features Seen in the Image:
+
+- **Steering Column Stalks:**
+  - Two control stalks are visible. The upper stalk typically controls the windshield wipers and turn signals, indicated by symbols for both functions.
+  - The lower stalk is often used for cruise control or speed limiter functions, suggested by the ""LIM/+"" markings.
+
+- **Dashboard Controls:**
+  - A rotary light switch is present, likely for controlling the vehicle’s exterior lights, including positions for headlights, fog lights, and possibly automatic light settings.
+  - Additional buttons are visible above the light switch, possibly for various assistance systems or vehicle settings (e.g., parking sensors, lane-keeping assist).
+
+- **Instrument Cluster:**
+  - Part of the speedometer is visible, showing a range up to 260 km/h, aligning with typical speeds for this vehicle type.
+  - A small digital display adjacent to the speedometer shows the outside temperature (23.0°C) and other vehicle status information.
+
+### General Observations:
+
+- **Condition:**
+  - The controls appear to be in good condition, with no visible wear or damage, reflecting the described vehicle's better-than-average state.
+  
+- **Design:**
+  - The interior design uses a blend of dark and metallic materials, which is typical for Mercedes-Benz, aiming for a luxurious and sleek look.
+
+This configuration supports the vehicle's thorough inspection results, affirming its operational readiness and overall better-than-average condition considering its age and mileage."
+51,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104600_anonimized.jpg,"The image shows the interior driver's door panel of a Mercedes-Benz V 250 BlueTec L 4Matic Aut. The features visible include:
+
+1. **Seat Control Buttons**: The panel has controls for adjusting the seat position, including seat movement, backrest tilt, and memory settings for three preset positions.
+
+2. **Window Controls**: There are buttons for operating the electronic windows and mirrors, allowing adjustments to be made from the driver's seat.
+
+3. **Material and Finish**: The panel is finished in high-quality materials, with a combination of leather and metal, giving it a luxurious appearance.
+
+4. **Design and Ergonomics**: The layout of the controls is ergonomic, ensuring easy access and use for the driver.
+
+The vehicle's description indicates that it is well-maintained and in better-than-average condition for its age and mileage, which is reflected in the quality and intact appearance of the interior shown in the image."
+52,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104604_anonimized.jpg,"The image shows a speaker in a Mercedes-Benz vehicle, likely part of its premium sound system. The speaker has a ""Burmester"" label, which indicates it is a high-quality audio component, as Burmester is known for luxury automotive sound systems. The design features a sleek metal trim and a perforated grille, fitting well within the vehicle's interior, which has a mix of black and brown materials suggesting a focus on luxury and aesthetics. 
+
+Based on the technical data provided, this vehicle is a Mercedes-Benz V 250 BlueTec L 4Matic with a clean technical inspection and is assessed as being in better-than-average condition for its age and mileage. The sound system is likely one of the additional features contributing to this vehicle's premium assessment and market demand."
+53,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104639_anonimized.jpg,"The image shows a close-up of a Mercedes-Benz information plate inside a vehicle, likely around the door jamb area. The plate includes weight specifications such as maximum permissible mass and axle loads, which are common details displayed on these types of plates.
+
+### Key Aspects of the Vehicle Identification:
+
+- **Asset Type:** Mercedes-Benz V 250 BlueTec L 4Matic Aut., indicating it is a luxury passenger vehicle.
+- **Chassis and Model Data:** The plate confirms the factory-stamped chassis number and other specifications needed for precise vehicle identification.
+
+### Condition Overview:
+
+- **Inspection Results:** The inspection indicates the vehicle is in better-than-average condition for its age and mileage. All primary systems like steering, brakes, engine, and transmission were found in appropriate condition.
+- **Bodywork and Paint:** Minor repairs suspected in some areas based on paint thickness measurements.
+
+### Market and Valuation:
+
+- **Market Demand:** The model is popular in Hungary's secondary market, indicating good resale value.
+- **Determined Values:** The selling price is estimated at 17,853,150 HUF, with a purchase price at 16,017,150 HUF, reflecting its condition and demand.
+
+### Documentation:
+
+- Comprehensive documentation was reviewed, including service book maintenance and presence of two ignition keys, confirming proper record-keeping and completeness.
+
+Overall, this is a well-maintained vehicle, with valid technical inspection and positive assessments across all inspected areas, making it a potentially reliable purchase."
+54,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104700_anonimized.jpg,"The image shows the dashboard of a Mercedes-Benz V 250 BlueTec L 4Matic Aut. The dashboard features:
+
+1. **Speedometer (Left):** Displays speed in km/h with various warning lights, such as the tire pressure and stability control indicators.
+
+2. **Central Screen:** Indicates transmission status (gear position - ""R"", ""N"", ""P"", ""D"") and displays a warning message in German: ""Totwinkel-Assistent ohne Funktion,"" which means ""Blind Spot Assist not functioning.""
+
+3. **Tachometer (Right):** Displays engine revolutions per minute (RPM). There are additional warning lights illuminated, indicating potential maintenance issues, such as brake or electronic failure.
+
+4. **Time/Temperature (Bottom):** Shows the time as 10:47 and the outside temperature as 23.0°C.
+
+The visual inspection alongside the technical description confirms that this vehicle has undergone a thorough assessment, revealing good overall condition despite the dashboard warnings. Key services and documentation, such as the registration certificate and service book, are noted to be in order. The market evaluation indicates it is a desirable model with a valid technical inspection until 2025."
+55,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104730_anonimized.jpg,"The image depicts the interior dashboard controls of a Mercedes-Benz V-Class vehicle. The central console features various buttons and display screens for managing the vehicle's climate and media systems.
+
+### Climate Control Panel:
+- **Temperature Display:** Shows the current temperature setting (22°C). 
+- **Buttons:** Include functions for airflow direction, fan speed, automatic climate control settings, and defrost options.
+
+### Media and Navigation Controls:
+- **Navi, Radio, Media Buttons:** Access different media sources and navigation.
+- **TEL Button:** Likely used to connect a telephone or manage calls.
+
+### Features:
+- **Stylish Design:** The dashboard has a sleek finish with metallic or gloss black surfaces, typical of Mercedes-Benz luxury standards.
+- **Integrated Technology:** The panel includes advanced technological controls, emphasizing ease of use and intuitive access to various functionalities.
+
+Overall, this setup reflects a modern, luxurious interior that prioritizes comfort and user-friendly technology for passengers and drivers."
+56,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104725_anonimized.jpg,"The image features the driver's cockpit of a Mercedes-Benz V 250 BlueTec L 4Matic Aut., showing a close-up of the steering wheel and dashboard. Here's a breakdown of visible elements:
+
+1. **Steering Wheel:**
+   - Features the Mercedes-Benz emblem prominently.
+   - Includes control buttons on both left and right sides, allowing the driver to manage functions like voice control, calls, and navigating the vehicle's infotainment system without removing hands from the wheel.
+   - Designed with leather wrapping and ergonomic grips for comfort and precision.
+
+2. **Dashboard:**
+   - Equipped with analog dials for speedometer and tachometer.
+   - Central digital display likely shows essential information like fuel level, temperature, and navigation prompts.
+   - Modern design with clear readability, typical of premium vehicles.
+
+3. **Interior Design:**
+   - Trim includes a blend of high-end materials likely featuring wood and leather, consistent with luxury branding.
+   - The overall color scheme blends elegance with functionality, optimized for driver experience and aesthetics.
+
+4. **Climate Controls:**
+   - The right section of the image shows partially visible controls for climate settings, suggesting an emphasis on passenger comfort.
+
+This interior aligns with the vehicle's luxury status and advanced features, supporting its market valuation and condition assessment as described in the data. The vehicle appears well-maintained, reflecting its lower-than-average mileage and overall positive inspection results."
+57,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104732_anonimized.jpg,"The image depicts the central control panel of a Mercedes-Benz vehicle, specifically the V 250 BlueTec L 4Matic Aut. model. This panel includes several features:
+
+1. **Touchpad Controller:** 
+   - Positioned centrally, allows for intuitive navigation through the vehicle’s infotainment system.
+
+2. **Surrounding Buttons and Controls:**
+   - Various buttons are present around the touchpad. These might control dynamic driving modes (e.g., sport, comfort), parking assist, and possibly the vehicle's start/stop system.
+   - The rotary dial likely serves to make selections and navigate menus more precisely.
+
+3. **Design and Materials:**
+   - Sleek silver finish with a modern aesthetic.
+   - Surrounding materials appear to be leather, indicating a premium interior design.
+
+4. **Functionality Insight:**
+   - Controls are designed for ease of use, enhancing driver comfort by allowing adjustments without excessive distraction.
+   - The presence of features like dynamic mode selection hints at a vehicle equipped for varied driving conditions.
+
+This control panel is an essential part of the vehicle’s interface, contributing to its luxurious and user-friendly driving experience."
+58,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104727_1_anonimized.jpg,"The image shows the interior dashboard of a Mercedes-Benz V 250 BlueTec L 4Matic Aut. The focal point is the central display screen, which is showing the FM radio interface with options for various stations. The screen displays information such as the current radio station, frequency, and temperature settings.
+
+Below the screen, there are several controls related to air conditioning and system settings. These include buttons for adjusting temperature, fan speed, and a menu for different vehicle functions. The vehicle's interior features a sleek, modern design with a polished wooden finish and metallic accents around the air vents and controls.
+
+Overall, the dashboard reflects a luxurious and user-friendly design that is typical of Mercedes-Benz vehicles, aimed at providing comfort and convenience to the driver and passengers."
+59,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104734_anonimized.jpg,"The image shows the interior of a vehicle, specifically the center console area. There is a pair of cup holders, and one of them contains a set of keys. The keys appear to be ordinary house keys. The console is primarily dark in color, and the surroundings, including the visible part of the seat, suggest a well-maintained interior.
+
+This area is part of a Mercedes-Benz V 250 BlueTec L 4Matic Aut., a passenger vehicle evaluated to be in better-than-average condition. The analysis indicates that this vehicle has undergone visual, bodywork, and mechanical inspections, revealing no significant depreciation factors, affirming its roadworthiness and smooth operational condition. The vehicle is well-regarded in the secondary market, highlighting its popularity and demand."
+60,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104755_anonimized.jpg,"The image shows the dashboard display of a Mercedes-Benz V 250 BlueTec L 4Matic Aut. vehicle.
+
+### Dashboard Features:
+- **Speedometer (Left):** Displays speed in km/h, with a maximum readout of 240 km/h.
+- **Tachometer (Right):** Shows engine RPM x 1000, indicating current engine speed.
+- **Central Display:** 
+  - Indicates total mileage: 68,364 km (consistent with the report).
+  - Trip distance: 8,354.6 km since last reset.
+  - Current temperature: 23.5°C.
+  - Time: 10:47 AM.
+  - Gear position indicator shows ""R, C, N, P, D,"" with the vehicle not currently in gear.
+  - Warning and system lights indicating features like auto start/stop.
+
+### Vehicle Assessment Overview:
+- **Condition:** The vehicle is in better-than-average condition for its age and mileage. 
+- **Performance:** All major systems, including engine and brakes, are in working order. Tires are in 80% condition.
+- **Technical Inspection:** Valid until April 18, 2025.
+- **Market Information:** Considered a popular model in Hungary, reflected in valuation.
+
+Overall, the vehicle exhibits excellent maintenance and operational readiness, aligning with its comprehensive assessment."
+61,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104805_anonimized.jpg,"The image displays the interior dashboard of a Mercedes-Benz V 250 BlueTec L 4Matic, specifically focusing on the infotainment screen. The screen is showing a 180° rearview camera image, which includes a bird’s-eye view and a direct rear view of the surroundings. The text “Gesamtes Umfeld beachten!” is German for “Observe the entire surroundings!” indicating the car's safety features for reversing or parking.
+
+The dashboard has an elegant design with wood or high-quality material finish, and the control buttons are located below the screen for various functions like climate control and hazard lights. The vehicle appears to possess advanced technological features, contributing to driver convenience and safety."
+62,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104816_anonimized.jpg,"The image shows the infotainment system of a Mercedes-Benz vehicle, specifically a V 250 BlueTec L 4Matic. The display indicates it's tuned to an FM radio station, Radio 1 at 99.4 MHz. The digital screen shows options for other stations and features user interface elements typical of Mercedes-Benz vehicles, such as temperature controls set to 22°C for the air conditioning system. The cockpit design appears to feature high-quality materials with a sleek finish typical of luxury vehicles. 
+
+Buttons and dials below the screen provide physical controls for various functions, including media, navigation, and vehicle settings. Overall, the setup reflects the advanced technology and comfort focus in Mercedes-Benz interiors."
+63,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104826_anonimized.jpg,"The image shows the interior compartment of a Mercedes-Benz V 250 BlueTec L 4Matic Aut. vehicle, specifically the center console area. This section includes cup holders and a storage compartment. 
+
+### Observations:
+- **Cup Holders:** There are two cup holders visible, typically used for holding drinks during travel.
+- **Storage Compartment:** The storage area appears to be a central console bin, which is commonly used for miscellaneous items. 
+- **USB Ports:** Multiple USB ports are visible, allowing for connectivity and charging of electronic devices.
+- **Condition:** The compartment seems well-maintained based on the image, aligning with the overall good condition reported for the vehicle.
+
+### Relevance to Vehicle Assessment:
+- **Functionality:** The presence of functional elements like USB ports and organized storage adds to the convenience and user-friendliness of the vehicle's interior.
+- **Condition:** The image supports the report that the vehicle is in better-than-average condition, as even smaller details like the interior compartments are well preserved.
+
+Overall, this image provides a glimpse into the practical interior layout of the vehicle, which is an important aspect of comfort and convenience for passengers and drivers."
+64,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104854_1_anonimized.jpg,"The image depicts the interior of a Mercedes-Benz V 250 BlueTec L 4Matic, highlighting the seating arrangement and upholstery. The vehicle features a spacious and luxurious interior with two rows of seats, showcasing high-quality brown leather upholstery with detailed stitching. The seats appear to be comfortable and ergonomic, equipped with armrests for added passenger comfort. The design suggests ample legroom and flexibility, making it suitable for family or group travel. The overall setup blends functionality with a premium feel, typical of Mercedes-Benz, offering a comfortable travel experience."
+65,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104737_anonimized.jpg,"The image depicts the interior of a vehicle, specifically focusing on the rearview mirror and the area surrounding it on the ceiling. 
+
+Here are some observations based on the image and the provided information:
+
+1. **Rearview Mirror**: The mirror appears to be standard, mounted traditionally on the windshield. It looks clean and free from damage.
+
+2. **Ceiling and Console**: The overhead console includes lights and controls, typical for modern vehicles. It looks well-maintained, consistent with the condition report.
+
+3. **Interior Condition**: The visible interior parts appear to be in good condition, aligning with the overall assessment of the vehicle being better-than-average for its age and mileage.
+
+4. **Vehicle Context**: This is an interior shot of a Mercedes-Benz V 250 BlueTec, which is noted for its luxury and comfort, usually equipped with advanced features.
+
+Overall, the interior aspect shown in the image supports the detailed condition assessment, highlighting a well-kept and functional vehicle environment."
+66,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104821_anonimized.jpg,"The image shows the interior dashboard display of a Mercedes-Benz V 250 BlueTec. The central screen is indicating a message in German, which translates to ""No Bluetooth Audio Device connected"" and ""Connect last used player."" This is part of the vehicle's infotainment system, highlighting connectivity settings.
+
+### Key Observations:
+
+- **Infotainment System:** The display screen is central to the dashboard, presenting information related to audio connectivity.
+- **Bluetooth Connectivity:** The system is prompting the user to connect a Bluetooth audio device, suggesting functionality for wireless audio streaming.
+- **Dashboard Design:** The layout is modern, with other controls visible below the screen, such as knobs and buttons for climate control and media navigation.
+- **Interior Aesthetics:** The dashboard appears to have a high-quality leather finish, consistent with Mercedes-Benz's luxury standards.
+
+This setup allows for easy access to multimedia and connectivity options, enhancing the driving experience with advanced technology integration."
+67,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104812_anonimized.jpg,"The image shows the infotainment system of a Mercedes-Benz vehicle, specifically in the V 250 BlueTec L 4Matic Aut. model. The screen displays the navigation system, which is currently set to map mode, showing a region around Keszthely and Lake Balaton. 
+
+### Features:
+- **Navigation:** Provides map and route information.
+- **Temperature Display:** Shows an outside temperature of 22°C.
+- **Menu Options:** Includes options for navigation (Navi), radio, media (Medien), telephone (Telefon), and vehicle settings (Fahrzeug).
+- **Functionality Buttons:** Located below the screen, these buttons offer control over various car functions such as climate settings and media controls.
+
+The system appears to be integrated into a modern dashboard, typical of Mercedes-Benz styling, with a clean and intuitive interface. The display design aligns with the high-tech, luxury features expected in this vehicle class."
+68,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104936_anonimized.jpg,"The image shows the interior rear seats of a Mercedes-Benz V 250 BlueTec L 4Matic, specifically focusing on the seating. The seats are upholstered in brown leather with visible stitching, providing a premium appearance typical of Mercedes-Benz vehicles. Each seat is equipped with its seatbelt, and there are ISOFIX attachments for child seats, which indicates a focus on safety and family-friendly design.
+
+These seats are likely part of the second or third row, consistent with the vehicle's seating configuration that can accommodate up to six passengers. The leather appears to be in good condition, matching the thorough overall condition assessment noted earlier.
+
+The vehicle itself is a 2018 model, and as a luxurious, versatile passenger vehicle, it is well-suited for family use or as an executive shuttle, providing comfort and style along with reliability."
+69,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104911_anonimized.jpg,"The image shows the interior of a Mercedes-Benz V 250 BlueTec L 4Matic, focusing on the seats and center console. The seats are upholstered in brown leather with detailed stitching and equipped with adjustable armrests. The central console between the seats has integrated cup holders and appears to have storage compartments.
+
+### Observations:
+- **Leather Seats:** The brown leather seats give a premium feel, indicating the vehicle’s luxurious nature.
+- **Center Console:** The presence of cup holders and possibly additional storage points to a design focused on passenger comfort and convenience.
+- **Quality and Condition:** The visible parts of the interior look well-maintained and clean, consistent with the vehicle’s overall good condition as stated in the inspection report.
+
+### Usage:
+- **Passenger Comfort:** This setup is ideal for comfortable passenger travel, suitable for long journeys or executive transportation.
+- **Luxury and Practicality:** Balances luxury features with practical elements like storage space and cup holders, typical in premium vehicles like the V-Class.
+
+The image reinforces the vehicle's described better-than-average condition and supports its valuation in the market."
+70,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104907_anonimized.jpg,"The image shows the interior of a vehicle, specifically the central console area between the front seats. This section includes:
+
+- **Cup Holders:** Two cup holders with a sleek, metallic trim. The design is practical for holding beverages securely while driving.
+
+- **Storage and Controls:** There's a visible button with an icon resembling a cup, possibly indicating a related storage or utility function nearby.
+
+- **Material and Finish:** The console is made of a high-quality plastic with a textured surface, complementing the surrounding leather seats, which are brown with stitching details. This combination adds a touch of luxury and style to the vehicle's interior.
+
+Overall, the layout and materials suggest a focus on comfort and convenience, aligning with the premium nature of a Mercedes-Benz V-Class vehicle."
+71,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104932_anonimized.jpg,"The image shows the interior of a Mercedes-Benz V 250 BlueTec L 4Matic. Specifically, it displays the back seats, which are leather and appear to be well-maintained. The color is a rich brown with white stitching, adding a touch of luxury and elegance to the vehicle's interior design. There's seating for three passengers, each seat equipped with individual seatbelts for safety. The seats look spacious and comfortable, which aligns with the vehicle's description as a Kombi model, typically designed for passenger comfort. The interior condition matches the overall good condition reported in the technical description."
+72,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104918_anonimized.jpg,"The image shows a portion of the interior of a Mercedes-Benz V 250 BlueTec L 4Matic Aut. vehicle. It features brown leather seats with visible stitching, indicative of premium material and craftsmanship. 
+
+Adjacent to the seat is a surface with a wood-like finish, adding to the luxury feel of the vehicle. This surface includes a retractable cup holder, a practical feature for passenger comfort. The design and materials suggest a focus on both aesthetics and functionality common in high-end passenger vehicles.
+
+This aligns with the vehicle's detailed assessment, emphasizing its condition, quality materials, and overall design intended for comfort and style. The vehicle appears to be well-maintained, consistent with the documented better-than-average condition for its age and mileage."
+73,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105023_anonimized.jpg,"The image displays a Mercedes-Benz car wheel with a Michelin tire, sized 245/45 R19. The tire appears to be in about 80% condition, indicating light wear. The wheel features an alloy rim with a modern, multi-spoke design that complements the Mercedes-Benz emblem centrally located on the wheel cap. The overall condition looks good, aligning with the vehicle's described maintenance status and general condition.
+
+The detailed assessment confirms that the vehicle, a Mercedes-Benz V 250 BlueTec, is in better-than-average condition, with all mechanical and electrical components functioning properly. The Michelin tires, along with the smooth operational test and absence of depreciation factors, suggest that this vehicle has been well-maintained.
+
+This assessment, alongside the valuation based on market conditions, validates the vehicle's strong resale potential and demand on the Hungarian secondary market."
+74,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104947_anonimized.jpg,"The image shows the interior roof of a vehicle, specifically focusing on the headliner and the area where a sunroof or a panoramic roof cover might be located. The material appears to be well-maintained, with a clean surface that indicates good upkeep. The brown seats and the overall design suggest a premium finish consistent with a high-end vehicle like the Mercedes-Benz V 250 BlueTec L 4Matic Aut.
+
+Given the information provided, the vehicle has undergone a thorough assessment and is in better-than-average condition for its age and mileage. The combination of technical inspection validity, operational functionality, and tire condition all contribute to its strong market valuation. This image supports the details of a well-maintained interior, adding to the vehicle's overall appeal and market demand in the Hungarian secondary market."
+75,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105034_anonimized.jpg,"The image shows a close-up of a vehicle tire and wheel with the following details visible:
+
+- **Tire Specifications:**
+  - **Size:** 245/45 R19
+  - **Treadwear Rating:** 240
+  - **Traction Rating:** A
+  - **Temperature Rating:** A
+
+These specifications indicate a high-performance tire suitable for a Mercedes-Benz V 250 BlueTec, providing good traction and temperature performance.
+
+### Additional Context:
+
+- **Treadwear 240** suggests moderate durability, with the tire expected to last about twice as long as a tire rated at 120.
+- **Traction A** implies good grip on wet surfaces, assisting in safe handling in rainy conditions.
+- **Temperature A** indicates the tire's capability to withstand higher temperatures at speed, beneficial for long drives or warmer climates.
+
+### General Condition:
+
+- The image shows a well-maintained tire, with visible tread and no apparent damage to the wheel or sidewall.
+- The tire's condition aligns with the assessment's indication that the tires are at 80% condition, suggesting they have substantial life remaining.
+
+This tire and wheel reflect the vehicle’s strong maintenance level, consistent with its reported better-than-average condition for its age and mileage."
+76,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_104955_anonimized.jpg,"The image shows the interior roof of a Mercedes-Benz V 250 BlueTec L 4Matic passenger vehicle. The headliner appears clean and well-maintained, suggesting a good interior condition. A ceiling control module is visible, likely for interior lights or sunroof controls, if applicable. The passenger vehicle's interior is designed for comfort and functionality.
+
+Given the detailed assessment information, this vehicle is confirmed to be in better-than-average condition for its age. It is equipped with essential features and all systems, including the engine, brakes, and electrical components, have been authenticated to function correctly. The combination of a thorough inspection and a lower-than-average mileage suggests that this vehicle is a reliable option in the secondary market."
+77,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105002_anonimized.jpg,"The image shows the interior of a Mercedes-Benz V 250 BlueTec L 4Matic Aut., specifically focusing on the overhead console area. The console pictured in the image appears to be a climate control or lighting control module mounted on the ceiling of the vehicle. 
+
+### Features:
+- **Controls:** The console includes buttons, possibly for adjusting climate settings or controlling interior lights.
+- **Display:** A small digital display is visible, likely for showing temperature or settings information.
+
+### Contextual Insights:
+- **Vehicle Type:** This is a passenger vehicle with a focus on comfort and control for occupants, fitting the profile of a Mercedes-Benz Kombi with multiple seats.
+- **Condition:** As part of an overall well-maintained interior, this component seems in good condition, aligning with the reported general condition of the vehicle.
+
+### Usage:
+- **Comfort and Convenience:** The control panel is designed to enhance passenger comfort by allowing easy adjustments to climate settings or other features. 
+
+This interior aspect complements the vehicle's reputation for luxury and refined passenger experience. Overall, the car is in better-than-average condition according to the assessment, reflecting its upkeep and lower-than-average mileage."
+78,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105203_anonimized.jpg,"The image shows the interior of a Mercedes-Benz V-Class van with the passenger door open. The door panel features controls such as window switches and possibly mirror adjustments. The interior design includes a combination of materials, likely leather and high-quality plastics, contributing to a luxurious appearance. The seating area and floor mat are visible, emphasizing comfort and cleanliness.
+
+Regarding the inspection details, the vehicle is a Mercedes-Benz V 250 BlueTec L 4Matic Aut. It's a well-maintained, all-wheel-drive passenger vehicle with a 2.1-liter engine and 140 kW power. The assessment includes a thorough check of the vehicle's systems, confirming its operational readiness and validity of technical inspection until April 2025.
+
+The vehicle condition is better than average for its age and mileage of 68,364 km, suggesting careful usage and good upkeep. Market valuation places its selling price around 17.85 million HUF, indicating strong market demand and reliability of the model."
+79,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105149_anonimized.jpg,"The image displays the interior of a Mercedes-Benz V 250 BlueTec L 4Matic, specifically focusing on the passenger seating area. Here are some observations based on the image and provided data:
+
+### Visual Description
+- **Seating:** The vehicle has comfortable, well-cushioned seats with a leather finish and adjustable armrests.
+- **Configuration:** The seats are arranged in a combination that allows for ample legroom, fitting with the vehicle's description as having 6 seats.
+- **Interior Features:** There is visible detailing on the seats with contrast stitching that enhances the aesthetic appeal. The armrest includes cup holders for convenience during travel.
+- **Materials:** The use of high-quality materials adds a luxurious touch to the interior, consistent with Mercedes-Benz's reputation.
+
+### Technical Insights
+- **Condition:** The seats and interior appear to be in excellent condition, aligning with the assessment's note that the vehicle is better than average for its age.
+- **Functionality:** The luxurious design suggests features that cater to passenger comfort and convenience.
+- **Market Appeal:** This level of interior quality supports the statement that the vehicle is popular and in demand on the Hungarian secondary market.
+
+Overall, the image and information provided highlight a well-maintained luxury passenger vehicle, suitable for comfortable travel."
+80,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105152_anonimized.jpg,"The image shows the interior of a Mercedes-Benz V 250 BlueTec L 4Matic, specifically focusing on the seating arrangement. Here are some observations:
+
+1. **Seating Configuration**: The vehicle is configured with leather seats, indicating a focus on comfort and luxury. The seats have an ergonomic design and appear to have integrated headrests for added comfort.
+
+2. **Material Quality**: The leather upholstery is brown with visible stitching, suggesting high-quality materials and attention to detail, typical of Mercedes-Benz interiors.
+
+3. **Passenger Capacity**: The seating layout suggests that the vehicle is designed to accommodate multiple passengers comfortably, suitable for family or business travel.
+
+4. **Safety Features**: The presence of seat belts confirms standard safety features for passenger security.
+
+Overall, the interior condition aligns with the vehicle's overall better-than-average condition as mentioned in the assessment, making it an attractive option in the secondary market."
+81,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105147_anonimized.jpg,"The image shows the interior of a Mercedes-Benz V 250 BlueTec L 4Matic passenger vehicle. The focus is on the rear seating area, featuring comfortable leather seats with armrests that look well-maintained and spacious. The seats appear to be designed for luxury and comfort, suitable for long journeys. The overall condition reflects the vehicle’s well-kept nature as noted in the inspection report. This arrangement offers a refined and practical environment, ideal for both private and business transport needs, making use of the vehicle's capacity for six passengers. The color and material choice contribute to a premium feel consistent with the Mercedes-Benz brand."
+82,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105327_1_anonimized.jpg,"The image shows a Mercedes-Benz V 250 BlueTec L 4Matic Aut., a luxury passenger vehicle. The car is parked with its hood open, displaying the engine compartment. This vehicle model is known for its spacious interior, making it suitable for families or executive transport with six seats available.
+
+### Key Characteristics:
+- **Model and Make:** Mercedes-Benz V 250 BlueTec L 4Matic Aut.
+- **Engine:** 2,143 cm³ displacement delivering 140 kW of power.
+- **Mileage:** 68,364 km, which is relatively low for its age.
+- **Condition:** The vehicle is reported to be in better-than-average condition for its age. All major systems, such as the steering, brakes, engine, transmission, suspension, and electrical systems, are functioning appropriately.
+- **Tires:** Michelin tires with 80% tread remaining on both axles.
+- **Paint:** Some minor repairs may be present due to variations in paint thickness, but no major issues are noted.
+- **Market Value:** The determined market selling price is 17,853,150 HUF, while the purchase price is 16,017,150 HUF.
+
+### Additional Notes:
+- The visual inspection and testing revealed no operational irregularities.
+- The vehicle has a valid technical inspection until April 2025.
+- The market analysis indicates that this model is popular in Hungary, with a good service network available.
+- Included accessories and documentation support the premium valuation, such as the service book and two ignition keys. 
+
+Overall, the vehicle is well-maintained and exhibits qualities typical of Mercedes-Benz, such as luxury and performance."
+83,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105205_1_anonimized.jpg,"The image shows the interior door panel of a Mercedes-Benz V 250 BlueTec L 4Matic Aut. The panel features a combination of leather and metal finishes, offering a premium look typical of Mercedes-Benz vehicles. Here's a breakdown of the components visible in the photo:
+
+1. **Materials and Colors:**
+   - The door panel is crafted from high-quality materials, primarily leather, with a mix of brown and black hues.
+   - Metal accents provide a sleek and modern touch.
+
+2. **Controls:**
+   - The panel includes seat adjustment controls, which are traditionally used to adjust the position and comfort level of the seat.
+   - There is also a window control switch that allows for the opening and closing of the windows.
+
+3. **Design Elements:**
+   - The stitching on the leather adds a touch of elegance, highlighting the craftsmanship.
+   - The door handle has a polished metallic finish, enhancing the luxurious feel of the interior.
+
+4. **Comfort Features:**
+   - The presence of seat memory settings allows the driver to save preferred seating positions for convenience.
+
+This image indicates that the vehicle's interior is in line with the high standards of comfort and luxury associated with Mercedes-Benz. The attention to detail in materials and design emphasizes the brand's commitment to providing a premium driving experience."
+84,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105208_anonimized.jpg,"The image depicts a well-maintained leather seat inside a Mercedes-Benz vehicle, likely from the V 250 BlueTec L 4Matic model, as identified in the description. The seat is brown with perforated leather and features detailed stitching, indicative of a premium interior finish associated with Mercedes-Benz. Below the seat, there's an AMG-branded floor mat, adding to the luxury feel.
+
+The specifications indicate the vehicle is in better-than-average condition for its age and mileage, with a thorough assessment and no significant depreciation factors observed. It maintains a valid technical inspection, ensuring its roadworthiness until 2025.
+
+Overall, the seat's condition reflects the vehicle's well-preserved status, corroborating its market value and demand in the Hungarian secondary market."
+85,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105211_anonimized.jpg,"The image showcases the interior of a Mercedes-Benz V 250 BlueTec. The seats are upholstered in high-quality brown leather with visible white stitching, indicating a focus on luxury and comfort. The interior appears well-maintained, reflecting the vehicle's better-than-average condition for its age and mileage.
+
+The assessment data reveals the following key points:
+
+1. **Vehicle Condition**: The car is in excellent condition mechanically and aesthetically, with no significant depreciation factors or damages noted.
+
+2. **Technical Specifications**: The vehicle is a 2018 model with an engine displacement of 2,143 cm³ and power of 140 kW. It's fitted with Michelin tires that are 80% in condition.
+
+3. **Market Value**: The valuation reflects a strong demand in the secondary market, supported by its popularity in Hungary.
+
+4. **Accessories and Documentation**: It comes with a complete set of documents like the service book and registration certificate, and two ignition keys.
+
+Overall, the combination of luxury features, solid condition, and comprehensive documentation makes this vehicle appealing in the second-hand market."
+86,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105322_anonimized.jpg,"The image shows the engine compartment of a Mercedes-Benz V 250 BlueTec L 4Matic Aut., a passenger vehicle, verified as part of an inspection on July 20, 2024, in Sümeg. The vehicle was first registered on December 5, 2018, and has a mileage of 68,364 km. The engine has a displacement of 2,143 cm³ and a power output of 140 kW.
+
+### Details Visible in the Image:
+
+- **Battery:** Located on the left side, appears intact and properly installed.
+- **Air Intake System:** Includes visible components like the air filter housing, with the Mercedes-Benz logo prominently displayed.
+- **Fluid Reservoirs:** On the right, there are visible reservoirs for brake fluid and possibly windshield washer fluid, indicating accessible maintenance points.
+- **Engine Components:** Clean and organized, suggesting regular maintenance.
+- **Condition:** No visible damage or major wear, aligning with the report stating the vehicle is in better-than-average condition for its age and mileage.
+
+### Inspection Highlights:
+
+- **Operational Tests:** The engine, transmission, and electrical systems were all reported to function properly. The vehicle is deemed roadworthy with a valid technical inspection until April 18, 2025.
+- **Tires and Paint:** Tires are in 80% condition, and paint inspection suggests minor repairs without major depreciation issues.
+
+### Market and Valuation:
+
+- The vehicle is considered popular in the Hungarian secondary market, with a significant market selling price.
+- Documentation, including a service book, is present, indicating thorough maintenance history.
+
+Overall, the image and report suggest a well-maintained vehicle, offering reliability and value for potential buyers."
+87,/content/drive/MyDrive/nlp_project_elte/data/161552_v2/IMG_20240720_105349_anonimized.jpg,"The image appears to show a section of a vehicle, possibly the engine compartment, given the presence of metallic surfaces and the general layout. Details like hoses or wiring might indicate a portion of the car’s internal mechanical structure. The black rectangle in the image likely obscures specific details, possibly a VIN (Vehicle Identification Number) or other identifying marks.
+
+From the technical description:
+- This is a Mercedes-Benz V 250 BlueTec L 4Matic Aut., a passenger vehicle assessed in Sümeg.
+- Given its features, this model is a luxury van with a spacious interior, ideal for comfortable travel for up to six people.
+- The car is in better-than-average condition for its age and mileage, indicating it's been well-maintained.
+- The technical inspection is valid until 2025, with no major operational issues noted.
+- With competitive market pricing, the vehicle is popular and in demand in Hungary's secondary market.
+
+Overall, this vehicle appears well-maintained, with routine checks and documentation to ensure its reliability and market value."
